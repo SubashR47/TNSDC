@@ -1,6 +1,7 @@
 # TNSDC
 
 FACE MASK DETECTION-A Convolutional Neural Network(CNN) Project.
+This program codes are done in Colab(which is a Jupyter Notebook service)
 
 ![image](https://github.com/SubashR47/TNSDC/assets/146118588/bf74f8b1-cc75-48fd-a5b4-c22efb0d2481)
 
